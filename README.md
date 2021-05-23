@@ -1,5 +1,6 @@
-# Artificial Intelligence CS461 HWs
-This repository contains assignments and projects for the Bilkent CS461 Artificial_Intelligence course [Spring 2021]
+# CS461 Artificial Intelligence Homeworks and Project
+
+Contains assignments and projects for the Bilkent CS461 Artificial_Intelligence course
 
 #### Team Members
 
